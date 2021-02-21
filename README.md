@@ -29,7 +29,7 @@ a'm gonna share some tips to keeps growth mindset:
 
 
 
-[ learn more on *Growth Mindset*)(https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[ learn more on *Growth Mindset*](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
 
