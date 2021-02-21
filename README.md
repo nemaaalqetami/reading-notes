@@ -8,6 +8,6 @@ and that my  `Table of Contents`
 | ----------- | ----------- |
 |MindSet |[MindSet](https://nemaaalqetami.github.io/reading-notes/mindset) |
 |MarkDwon|[MarkDwon](https://nemaaalqetami.github.io/reading-notes/markdowm) |
-|Git |[Git]() |
+|Git |[Git](https://nemaaalqetami.github.io/reading-notes/git) |
 |GitHub |[GitHub]() |
 |A-C-P |[A-C-P]() |
