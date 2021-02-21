@@ -6,7 +6,7 @@ and that my  `Table of Contents`
 
 | `File Name`  | `Link` |
 | ----------- | ----------- |
-|MindSet |[MindSet]() |
+|MindSet |[MindSet](https://nemaaalqetami.github.io/reading-notes/mindset) |
 |MarkDwon|[MarkDwon]() |
 |Git |[Git]() |
 |GitHub |[GitHub]() |
