@@ -1,4 +1,4 @@
-# MARKDOWN
+# `MARKDOWN`
 
 ***What is Markdown?***
 
@@ -10,9 +10,9 @@ but you can not make a big change, if you want so use `vscode` and then applay i
 ***let me introduce you :***
 in this table i will explain all Syntax elements in the html and markDown
 
-##### Pc Not all Markdown applications support these elements.
+##### Pc : Not all Markdown applications support these elements.
 
-| Element | Markdown Syntax |
+| `Element` | `Markdown Syntax` |
 | ----------- | ----------- |
 | h1 |# |
 | h2 |## |
@@ -24,7 +24,27 @@ in this table i will explain all Syntax elements in the html and markDown
 | bold |**your content** |
 |img  |![yout content]  (image.jpg) |
 
+
 for more Syntax [Click Her](https://www.markdownguide.org/cheat-sheet/)
+
+also we have two types of list 
+order list :  precede each line with a number.
+`EX`
+1. C++
+2. Java
+3. Javascript
+unorder list : preceding one or more lines of text with - or * or +
+`EX`
+- data structure
+- algorithm
+
++ Operating System
++ information retrieval
+
+* Sql+
+* oracle
+
+
 
 
 
