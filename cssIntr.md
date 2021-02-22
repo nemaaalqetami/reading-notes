@@ -45,9 +45,10 @@ you can use the css to style your `HTML` elements in three approach :
 
 tag image has specific property we couldn't use it with other tags and use it for the path of the image,and can specify the size and width of the image
 it has It has a large number of properties, it also uses colors and their values
-EX:
-color : value (what color you wnat)
-You can write in  hexadecimal
+  EX:
+  
+  color : value (what color you wnat)
+  You can write in  hexadecimal
 
 You should know that Css has many rules that you will surely know by practice.
  
