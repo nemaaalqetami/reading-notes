@@ -40,8 +40,9 @@ you can use the css to style your `HTML` elements in three approach :
  
  
  also css  consists a set of CSS properties.The CSS properties specifies what to style of the targeted HTML elements
- Ex 
- <img src="the path of the image "/>
+
+Ex 
+ img src="the path of the image "
 
 tag image has specific property we couldn't use it with other tags and use it for the path of the image,and can specify the size and width of the image
 it has It has a large number of properties, it also uses colors and their values
