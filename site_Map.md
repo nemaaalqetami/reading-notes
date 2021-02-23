@@ -11,7 +11,7 @@ for html5 ,we use it `!DOCTYPE html` but it's not considered an element or html 
  developers use comment to leave notes to understand each other
  also, the developer comment the element of html because doesn't need it  but can use it again any time
 
-`<!-- comments parts     -->`
+`<!-- comments parts  -->`
 
 ### ID Attribute :
 
