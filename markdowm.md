@@ -20,8 +20,8 @@ in this table i will explain all Syntax elements in the html and markDown
 | h4 |#### |
 | h5 |##### |
 | h6 |###### |
-| italic |*your content* |
-| bold |**your content** |
+| italic |* *your content* * |
+| bold |** **your content** ** |
 |img  |![yout content]  (image.jpg) |
 
 

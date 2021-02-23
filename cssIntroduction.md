@@ -17,7 +17,7 @@ you can use the css to style your `HTML` elements in three approach :
 2. internal styling 
 3. external styling
 
-`and the most common is external styling because it reusable the developer can use it for more one html page `
+`and the most common is external styling because it reusable the developer can use it for more one html page`
 
 
 
