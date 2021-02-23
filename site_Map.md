@@ -36,6 +36,9 @@ id attribute must Unique for styling just `one element in html` and should be st
 `<character escape>` is a way pf representing a character using only   
 
  ASCII characters 
+ 
+ 
+ 
  # Chapter 17 :
 
 In this chapter we gonna tolk about `HTML SEMANTIC ELEMENTS`
