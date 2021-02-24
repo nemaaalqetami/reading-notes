@@ -25,7 +25,22 @@ but what about other types of information ? like (Text,image , sound) it turns o
 Every wrod you see om every  webpage or your phone is represented using a system like this
 lets consider photos , videos and all the graphics you see on a sereen,all of these images are made out of teeny dots calles `pixels`
 and of the colors can be represented withe numbers
+
 # Video 4 :
+
+How Computers work : circuits & logic 
+every input or output of a computer is effectively a type of information, which can be represented by on or off electrical signals
+or ones and zeros.
+in this exapmple a circuit will take two electrical singles ,now each one might be 1 or 0,if either of the signal coming in is a 0 then the result is also a 0
+This circuit will only give you a 1
+if the first signal and ara both a 1, and so we call the circuit and
+
+# Video 5 :
+
+
+
+
+
 
 
 
