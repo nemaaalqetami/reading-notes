@@ -6,11 +6,16 @@
  + Name of Color 
  Ex : `<p style="color: red;">` 
  + Hex codes
- Ex :  `<p style="color:#FFFFF;">`
+ Ex :  `p {
+ color:#FFFFF;
+ }`
  + RGB values 
- +  Ex : 
- + i will give you example for each of one
- 
+Ex :  `p {
+ rgb(84, 151, 240);
+ }`
+
+
+
 
 
 
