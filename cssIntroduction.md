@@ -15,11 +15,16 @@ Ex :  `p {
  }`
 
 
+### color piickers :
+This tool makes it easy to create, adjust, and experiment with custom colors for the web.
 
 
 
+### CSS3: HSL Colors:
 
-
+CSS3 introduces an entirely new and intuitive
+way to specify colors using hue, saturation,
+and lightness values.
 
 
 
