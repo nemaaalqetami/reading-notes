@@ -1,4 +1,41 @@
+# chapter 11 
 
+ ### Understanding Color 
+ Every color an a copmuter secrren is reated by mixing ammounts of red ,green , blue 
+ you can write your color in three approach 
+ + Name of Color 
+ Ex : `<p style="color: red;">` 
+ + Hex codes
+ Ex :  `<p style="color:#FFFFF;">`
+ + RGB values 
+ +  Ex : 
+ + i will give you example for each of one
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# chapter 10
 ## CSS Introduction
 
 
